@@ -2,6 +2,9 @@
     padding: 0px;
     margin: 0px;
 }
+p{
+    text-align: justify;
+}
 body{
     background-color: darkgoldenrod;
     font-family: 'Open Sans','Helvetica Neue', Arial, Helvetica, sans-serif;
@@ -63,4 +66,7 @@ ul li a:hover{
 }
 td{
     vertical-align: top;
+}
+ol li{
+    text-align: justify;
 }
